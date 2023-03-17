@@ -1,10 +1,10 @@
-import SignIn from './Components/AuthForm/SignIn';
+import Home from './Pages/Home/Home';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <SignIn />
+      <Home />
     </div>
   );
 }
