@@ -1,3 +1,11 @@
+# Projet de login avec Firebase
+
+Pour installer le projet
+ - npm install (pour installer les packages du projet)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
